@@ -16,10 +16,8 @@ import java.util.concurrent.LinkedBlockingQueue;
 public class Server {
 
 	public static final int PORT_INIT = 6543;
-//	public static final int PORT_DOWNLOAD = 6544;
 //	public static final String DIR_PATH = "D:\\Downloads\\Se7en ( 1995 )";
 	public static final String DIR_PATH = "C:\\Users\\admin\\Desktop\\directory";
-//	public static final String DIR_PATH = "D:\\Downloads\\Minecraft 1.13.1 by TeamExtreme";
 //	public static final String DIR_PATH = "D:\\Downloads\\obrazok";
 
 	@SuppressWarnings("unchecked")
